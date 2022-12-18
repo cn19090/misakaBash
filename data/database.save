@@ -1,0 +1,1 @@
+{"sys":{"databaseId":1602621277837844480,"databaseName":"sys","tables":{"user":{"table_id":1602621277858816000,"table_name":"user","Fields":["user_id","username","passwd","root_path","group","permis"],"Tuples":[["1","root","root","./root","root","admin"],["1602635770970099712","hello",null,"./hello",null,null]]}}}}
